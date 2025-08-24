@@ -42,6 +42,6 @@ This project focuses on predicting student performance based on academic, demogr
 
 4. **Results**  
    - Highlighted most important factors affecting student performance  
-   - Best performing model achieved **XX% accuracy**  
+   - Best performing model achieved **88% accuracy**  
 
 ---
